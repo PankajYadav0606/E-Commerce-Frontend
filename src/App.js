@@ -19,7 +19,7 @@ function App() {
         {/* <Order/> */}
         {/* <OrderDetails/> */}
 
-       Aditya
+       
       </div>
     </div>
   );
